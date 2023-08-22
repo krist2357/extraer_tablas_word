@@ -1,4 +1,4 @@
-# EXTRAER TABLAS DE TEXTO EN WORD Y TRASLADARLAS A EXCEL
+# EXTRACCIÓN DE TABLAS DE TEXTO EN ARCHIVOS DE WORD Y TRASLADO A UN ARCHIVO DE EXCEL
 ## INTRODUCCIÓN:
 Con el surgimiento de grandes cantidades de datos, existe la necesidad de extraerlos desde diversas fuentes para ser tratados y analizados.
 Una de las fuentes de datos son informes, cartas o archivos en forma general que se encuentran en word con extensión .docx.  
