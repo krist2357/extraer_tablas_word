@@ -11,7 +11,7 @@ De igual forma, se puede mencionar que el programa se ha desarrollado completame
 La aplicación desarrollada usa las librerías PySimpleGUI, docx y openpyxl.
 La aplicación tiene el siguiente aspecto, y se la ha creado en base a la necesidad de extraer automáticamente tablas desde word y trasladarlas automáticamente a un archivo de excel.
 
-![image](https://github.com/krist2357/extraer_tablas_word/assets/75154211/f9ca1e0f-ef91-44d2-86aa-9a89b985db57)
+![image](https://github.com/krist2357/extraer_tablas_word/assets/75154211/bb7101c7-5f88-4486-9eaa-13699187e521)
 
 El archivo de excel tiene como nombre datos.xlsx. Y debe ser creado antes de realizar cualquier acción de traslado de datos.
 
